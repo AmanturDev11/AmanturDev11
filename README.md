@@ -10,6 +10,4 @@
 AmanturDev11/AmanturDev11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://camo.githubusercontent.com/8124acd732d423f56d53ae2ff7d0b1c4d51cd9b168a02f41f5d1f8892f4efbbd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176617363726970742c747970657363726970742c7374796c6564636f6d706f6e656e74732c72656475782c72656163742c6d75692c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c736373732c6769742c766974652c76657263656c" alt="" />
-
 <img src="https://raw.githubusercontent.com/bimashazaman/Github-snake-SVG/master/snake.svg" alt="" />
