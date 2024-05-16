@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,styledcomponents,redux,react,mui,html,css,vscode,github,figma,scss,git,vite,vercel",https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,styledcomponents,redux,react,mui,html,css,vscode,github,figma,scss,git,vite,vercel" />
     
    
 </div>
