@@ -11,7 +11,9 @@
   <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Just+Frontend+Developer"/>
 </a>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+My+name+is+Amantur+Ismailov;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
+<h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+My+name+is+Amantur+Ismailov" alt="Typing SVG" /></a>
+</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,styledcomponents,redux,react,mui,html,css,vscode,github,figma,scss,git,vite,vercel" />
