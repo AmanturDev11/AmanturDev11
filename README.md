@@ -15,7 +15,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,styledcomponents,redux,react,mui,html,css,vscode,github,figma,scss,git,vite,vercel" />
-    <img src="https://edteam-media.s3.amazonaws.com/blogs/original/f82fbb89-6854-409e-83b3-8a02f80826ee.png" />
    
 </div>
 <!---
