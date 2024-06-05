@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-- AmanturDev11
+- 
 - 
 <div align="center">
   <a href="https://github.com/AmanturDev11">
