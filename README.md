@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- interested ////!
+- interested ///2
 
 <div align="center">
   <a href="https://github.com/AmanturDev11">
