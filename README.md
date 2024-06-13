@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- Prono
+- P/
 - 
 <div align="center">
   <a href="https://github.com/AmanturDev11">
