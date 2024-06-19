@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 - ./..//...///....////...../////......//////......./////// !!! --->???
 
-- AmanturD555+++++1234#@@
+- AmanturD555+++++
 - 
 <div align="center">
   <a href="https://github.com/AmanturDev11">
