@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 - ./..//...///....////...../////......//////......./////// !!! --->???
 
-- Pronouns!!!!.../// ....////45454
+- Pronouns!!!!.../// ....////
 
 <div align="center">
   <a href="https://github.com/AmanturDev11">
