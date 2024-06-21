@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 - ./..//...///....////...../////......//////......./////// !!! --->???
 
-- AmanturDev11././....121212
+- AmanturDev11././....121212ю.ю.ю.ю
 - 
 <div align="center">
   <a href="https://github.com/AmanturDev11">
