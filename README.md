@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ./..//...///....////...../////......//////......./////// !!! --->???
-  
 <div align="center">
   <a href="https://github.com/AmanturDev11">
   <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Just+Frontend+Developer"/>
